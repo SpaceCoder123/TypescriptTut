@@ -1,6 +1,6 @@
 "use strict";
-let username = "Mohan";
-console.log(username);
+let userName = "Mohan";
+console.log(userName);
 
 // tsc main.ts to compile the ts file into js file 
 // main.js writes let as var to make the sure is compatible with the older versions 
