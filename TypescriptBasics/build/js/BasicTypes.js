@@ -15,7 +15,7 @@ let dynAlbum; // union type, can only be a string or a number
 dynAlbum = "test";
 dynAlbum = 1;
 // dynAlbum = false;  throws error
-let isActive; // union type, can only be a string or a number
+let isActive; // union type, can only be a boolean or a number
 // isActive  =  "test"; throws error
 isActive = 1;
 isActive = false;
